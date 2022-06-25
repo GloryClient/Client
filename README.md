@@ -1,1 +1,1 @@
-# Client
+# Open Source PvP client
